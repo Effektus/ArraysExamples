@@ -1,1 +1,7 @@
 C:\Programing\ArraysExamples\07ReversedArray\bin\Debug\07ReversedArray.exe.config
+D:\Programing\1. Fundamental Level - Sep 2015\Advanced-CSharp - Sep 2015\1. Arrays-Lists-Stacks-Queues\ArraysExamples\07ReversedArray\bin\Debug\07ReversedArray.exe.config
+D:\Programing\1. Fundamental Level - Sep 2015\Advanced-CSharp - Sep 2015\1. Arrays-Lists-Stacks-Queues\ArraysExamples\07ReversedArray\bin\Debug\07ReversedArray.exe
+D:\Programing\1. Fundamental Level - Sep 2015\Advanced-CSharp - Sep 2015\1. Arrays-Lists-Stacks-Queues\ArraysExamples\07ReversedArray\bin\Debug\07ReversedArray.pdb
+D:\Programing\1. Fundamental Level - Sep 2015\Advanced-CSharp - Sep 2015\1. Arrays-Lists-Stacks-Queues\ArraysExamples\07ReversedArray\obj\Debug\07ReversedArray.csprojResolveAssemblyReference.cache
+D:\Programing\1. Fundamental Level - Sep 2015\Advanced-CSharp - Sep 2015\1. Arrays-Lists-Stacks-Queues\ArraysExamples\07ReversedArray\obj\Debug\07ReversedArray.exe
+D:\Programing\1. Fundamental Level - Sep 2015\Advanced-CSharp - Sep 2015\1. Arrays-Lists-Stacks-Queues\ArraysExamples\07ReversedArray\obj\Debug\07ReversedArray.pdb

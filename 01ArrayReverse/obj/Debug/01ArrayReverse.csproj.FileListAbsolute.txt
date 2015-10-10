@@ -4,3 +4,6 @@ C:\Programing\ArraysExamples\01ArrayReverse\bin\Debug\01ArrayReverse.pdb
 C:\Programing\ArraysExamples\01ArrayReverse\obj\Debug\01ArrayReverse.csprojResolveAssemblyReference.cache
 C:\Programing\ArraysExamples\01ArrayReverse\obj\Debug\01ArrayReverse.exe
 C:\Programing\ArraysExamples\01ArrayReverse\obj\Debug\01ArrayReverse.pdb
+D:\Programing\1. Fundamental Level - Sep 2015\Advanced-CSharp - Sep 2015\1. Arrays-Lists-Stacks-Queues\ArraysExamples\01ArrayReverse\bin\Debug\01ArrayReverse.exe.config
+D:\Programing\1. Fundamental Level - Sep 2015\Advanced-CSharp - Sep 2015\1. Arrays-Lists-Stacks-Queues\ArraysExamples\01ArrayReverse\obj\Debug\01ArrayReverse.exe
+D:\Programing\1. Fundamental Level - Sep 2015\Advanced-CSharp - Sep 2015\1. Arrays-Lists-Stacks-Queues\ArraysExamples\01ArrayReverse\obj\Debug\01ArrayReverse.pdb
