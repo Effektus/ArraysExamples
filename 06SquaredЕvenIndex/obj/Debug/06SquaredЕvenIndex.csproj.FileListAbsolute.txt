@@ -1,0 +1,6 @@
+C:\Programing\ArraysExamples\06SquaredЕvenIndex\bin\Debug\06SquaredЕvenIndex.exe.config
+C:\Programing\ArraysExamples\06SquaredЕvenIndex\bin\Debug\06SquaredЕvenIndex.exe
+C:\Programing\ArraysExamples\06SquaredЕvenIndex\bin\Debug\06SquaredЕvenIndex.pdb
+C:\Programing\ArraysExamples\06SquaredЕvenIndex\obj\Debug\06SquaredЕvenIndex.csprojResolveAssemblyReference.cache
+C:\Programing\ArraysExamples\06SquaredЕvenIndex\obj\Debug\06SquaredЕvenIndex.exe
+C:\Programing\ArraysExamples\06SquaredЕvenIndex\obj\Debug\06SquaredЕvenIndex.pdb

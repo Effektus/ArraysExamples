@@ -1,0 +1,5 @@
+C:\Programing\ArraysExamples\03IsArraySymmetric\bin\Debug\03IsArraySymmetric.exe.config
+C:\Programing\ArraysExamples\03IsArraySymmetric\bin\Debug\03IsArraySymmetric.exe
+C:\Programing\ArraysExamples\03IsArraySymmetric\bin\Debug\03IsArraySymmetric.pdb
+C:\Programing\ArraysExamples\03IsArraySymmetric\obj\Debug\03IsArraySymmetric.exe
+C:\Programing\ArraysExamples\03IsArraySymmetric\obj\Debug\03IsArraySymmetric.pdb

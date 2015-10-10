@@ -1,0 +1,1 @@
+C:\Programing\ArraysExamples\07ReversedArray\bin\Debug\07ReversedArray.exe.config

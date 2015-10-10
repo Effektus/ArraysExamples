@@ -1,0 +1,6 @@
+C:\Programing\ArraysExamples\05DoublingTheNumber\bin\Debug\05DoublingTheNumber.exe.config
+C:\Programing\ArraysExamples\05DoublingTheNumber\bin\Debug\05DoublingTheNumber.exe
+C:\Programing\ArraysExamples\05DoublingTheNumber\bin\Debug\05DoublingTheNumber.pdb
+C:\Programing\ArraysExamples\05DoublingTheNumber\obj\Debug\05DoublingTheNumber.csprojResolveAssemblyReference.cache
+C:\Programing\ArraysExamples\05DoublingTheNumber\obj\Debug\05DoublingTheNumber.exe
+C:\Programing\ArraysExamples\05DoublingTheNumber\obj\Debug\05DoublingTheNumber.pdb

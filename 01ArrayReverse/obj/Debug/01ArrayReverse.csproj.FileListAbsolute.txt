@@ -1,0 +1,6 @@
+C:\Programing\ArraysExamples\01ArrayReverse\bin\Debug\01ArrayReverse.exe.config
+C:\Programing\ArraysExamples\01ArrayReverse\bin\Debug\01ArrayReverse.exe
+C:\Programing\ArraysExamples\01ArrayReverse\bin\Debug\01ArrayReverse.pdb
+C:\Programing\ArraysExamples\01ArrayReverse\obj\Debug\01ArrayReverse.csprojResolveAssemblyReference.cache
+C:\Programing\ArraysExamples\01ArrayReverse\obj\Debug\01ArrayReverse.exe
+C:\Programing\ArraysExamples\01ArrayReverse\obj\Debug\01ArrayReverse.pdb

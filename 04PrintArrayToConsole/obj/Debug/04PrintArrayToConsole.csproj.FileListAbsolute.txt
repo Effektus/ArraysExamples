@@ -1,0 +1,5 @@
+C:\Programing\ArraysExamples\04PrintArrayToConsole\bin\Debug\04PrintArrayToConsole.exe.config
+C:\Programing\ArraysExamples\04PrintArrayToConsole\bin\Debug\04PrintArrayToConsole.exe
+C:\Programing\ArraysExamples\04PrintArrayToConsole\bin\Debug\04PrintArrayToConsole.pdb
+C:\Programing\ArraysExamples\04PrintArrayToConsole\obj\Debug\04PrintArrayToConsole.exe
+C:\Programing\ArraysExamples\04PrintArrayToConsole\obj\Debug\04PrintArrayToConsole.pdb

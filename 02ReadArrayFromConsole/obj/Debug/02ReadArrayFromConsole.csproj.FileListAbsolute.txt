@@ -1,0 +1,5 @@
+C:\Programing\ArraysExamples\02ReadArrayFromConsole\bin\Debug\02ReadArrayFromConsole.exe.config
+C:\Programing\ArraysExamples\02ReadArrayFromConsole\bin\Debug\02ReadArrayFromConsole.exe
+C:\Programing\ArraysExamples\02ReadArrayFromConsole\bin\Debug\02ReadArrayFromConsole.pdb
+C:\Programing\ArraysExamples\02ReadArrayFromConsole\obj\Debug\02ReadArrayFromConsole.exe
+C:\Programing\ArraysExamples\02ReadArrayFromConsole\obj\Debug\02ReadArrayFromConsole.pdb
